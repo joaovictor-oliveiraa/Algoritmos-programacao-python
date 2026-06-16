@@ -1,3 +1,5 @@
+nome: João Victor B. Oliveira | RA: 4201270
+
 # Algoritmos-programacao-python
 Repositório criado para armazenar atividades e projetos desenvolvidos durante a disciplina de Algoritmos e Programação de Computadores no curso de Engenharia da Computação.
 
